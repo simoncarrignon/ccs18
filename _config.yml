@@ -1,0 +1,116 @@
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site navigation
+
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+
+# 2. Installed Gems
+gems:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jemoji
+
+theme: alembic-jekyll-theme
+
+# 3. Gem settings
+paginate: 1 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: SimonCarrignon # jekyll-seo-tag > Owners twitter username
+author: SimonCarrignon # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: David Darnes # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+
+# 4. Jekyll settings
+sass:
+    style: :compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike
+
+# 5. Collections
+collections:
+  posts:
+    title: Posts # Needed for Siteleaf
+    output: true
+    description: "more" # The post list page content
+    feature_text: |
+      Welcome to the blog
+    feature_image: 
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: home # Default layout
+      image: "/assets/placeholder-social.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post # Default layout
+      image: "/assets/placeholder-social.png" # Default image for sharing
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+title: "Evolution of Cultural Complexity" # Site name or title, also used in jekyll-seo-tag
+logo: "http://ccs17.unam.mx/images/logo.png" # Site logo, also used in jekyll-seo-tag
+description: "Satellite Session @ CCS 2017 Cancun" # Site description and default description, also used in jekyll-seo-tag
+url: "https://css17.bsc.es" # Site url, also used in jekyll-seo-tag
+repo: ""
+email: "simon.carrignon@bsc.es"
+disqus: "alembic-1"
+avatarurl: "" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+
+# 8. Site navigation
+navigation_header:
+  Home: /
+  Goals: /goals/
+  Speakers: /speakers/
+  Committies: /committies/
+  Program: /program/
+
+navigation_footer:
+    Satellite session @ CCS17: https://ccs17.unam.mx
+
+social_links:
+  Twitter: 
+  LinkedIn: 
+  Google+: 
+  GitHub: 
+  link: 
+
+sharing_links:
+  Twitter: "#1DA1F2"
+  facebook: "#3B5998"
+  Google+: "#DC4E41"
+  Pinterest: "#BD081C"
+  LinkedIn: "#0077B5"
+  tumblr: "#36465D"
+  Reddit: "#FF4500"
+  Hacker News: "#ff6600"
+  Designer News: "#2D72D9"
+  Email: ""
