@@ -21,7 +21,6 @@ exclude:
 gems:
 - jekyll-sitemap
 - jekyll-mentions
-- jekyll-paginate
 - jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-feed
@@ -37,7 +36,7 @@ twitter:
   username: SimonCarrignon # jekyll-seo-tag > Owners twitter username
 author: SimonCarrignon # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Simon Carrignon # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
 
 # 4. Jekyll settings
@@ -45,7 +44,7 @@ sass:
     style: :compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Europe/Barcelona # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -77,7 +76,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 title: "Evolution of Cultural Complexity" # Site name or title, also used in jekyll-seo-tag
-logo: "http://ccs17.unam.mx/images/logo.png" # Site logo, also used in jekyll-seo-tag
+logo: "/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Satellite Session @ CCS 2017 Cancun" # Site description and default description, also used in jekyll-seo-tag
 url: "https://css17.bsc.es" # Site url, also used in jekyll-seo-tag
 repo: ""
