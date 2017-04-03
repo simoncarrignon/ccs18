@@ -1,5 +1,5 @@
 ---
-title: Scope
+title: Home 
 feature_text: |
   ## Evolution of Cultural Complexity
   September 21, 2017 (8:30-17:00)
@@ -22,7 +22,7 @@ trying to explain the rise of sociocultural complexity in human
 societies have been proposed (demographic factor, cognitive component,
 historical contingency...) but so far no consensus has been reached.
 
-Here we raisea number of questions:
+Here we raise a number of questions:
 
 1.  Can we better define sociocultural complexity and confirm its
     general tendency to increase over the course of human history?
@@ -34,12 +34,6 @@ Here we raisea number of questions:
 5.  What causes a loss of cultural complexity in a society? And how
     often these losses occurred in the past?
 6.  ...
-
-
-
-
-
-
 
 
 

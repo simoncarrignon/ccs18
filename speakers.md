@@ -7,9 +7,9 @@ feature_text: |
 
 ---
 
-Given the availability of the speakers, a particular attention will be
-paid to keep a balanced gender ratio.
+To Be Announced
 
+<!---
 -   Enrico Crema (University of Cambridge)
 -   Alex Bentley (University of Houston)
 -   Mark Collard (Simon Fraser University)
@@ -24,4 +24,4 @@ paid to keep a balanced gender ratio.
 -   Victoria Reyes-Garcia (ICREA & ICTA-UAB)
 -   Joe Henrich (University of British Columbia)
 
-
+-->
