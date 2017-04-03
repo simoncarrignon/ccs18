@@ -25,7 +25,7 @@ gems:
 - jekyll-redirect-from
 - jekyll-feed
 - jemoji
-
+ 
 theme: alembic-jekyll-theme
 
 # 3. Gem settings
@@ -93,10 +93,12 @@ navigation_header:
   Program: /program/
 
 navigation_footer:
-    Satellite session @ CCS17: https://ccs17.unam.mx
+    CCS17: https://ccs17.unam.mx
+    ERC : https://ccs17.unam.mx
+    EPNet : https://ccs17.unam.mx
+    Twitter: twitter.com/SimonCarrignon
 
 social_links:
-  Twitter: 
   LinkedIn: 
   Google+: 
   GitHub: 
