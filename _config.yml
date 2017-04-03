@@ -96,16 +96,21 @@ navigation_header:
 navigation_footer:
     BSC : 
         url: http://bsc.es
-        logo: /assets/logo/bsc.jpg
+        logo: /assets/logo/bsc.png
     CCS17 : 
         url: http://ccs17.unam.mx
         logo: /logo.png
     EPNet : 
         url: http://www.roman-ep.net
-        logo: https://ccs17.unam.mx
+        logo: /assets/logo/epnet.png
     ERC : 
         url: https://erc.europa.eu/
-        logo: https://erc.europa.eu/sites/default/files/LOGO-ERC.jpg
+        logo: /assets/logo/erc-white.svg
+
+    EU : 
+        url: https://europa.eu/
+        logo: /assets/logo/europe.jpg
+
 
 social_links:
   LinkedIn: 
