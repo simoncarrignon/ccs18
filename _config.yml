@@ -16,6 +16,8 @@ exclude:
 - CNAME
 - Gemfile
 - Gemfile.lock
+- demo/*
+- alembic-jekyll-theme.gemspec
 
 # 2. Installed Gems
 gems:
@@ -64,7 +66,6 @@ defaults:
       type: pages
     values:
       layout: home # Default layout
-      image: "/assets/placeholder-social.png" # Default image for sharing
   -
     scope:
       path: ""
