@@ -94,10 +94,18 @@ navigation_header:
   Program: /program/
 
 navigation_footer:
-    CCS17: https://ccs17.unam.mx
-    ERC : https://ccs17.unam.mx
-    EPNet : https://ccs17.unam.mx
-    Twitter: twitter.com/SimonCarrignon
+    BSC : 
+        url: http://bsc.es
+        logo: /assets/logo/bsc.jpg
+    CCS17 : 
+        url: http://ccs17.unam.mx
+        logo: /logo.png
+    EPNet : 
+        url: http://www.roman-ep.net
+        logo: https://ccs17.unam.mx
+    ERC : 
+        url: https://erc.europa.eu/
+        logo: https://erc.europa.eu/sites/default/files/LOGO-ERC.jpg
 
 social_links:
   LinkedIn: 
