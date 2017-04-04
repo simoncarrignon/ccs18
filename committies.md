@@ -18,30 +18,19 @@ feature_text: |
     iza.romanowska@bsc.es*
 -   Simon Carrignon (Barcelona Supercomputing Center (BSC) & Universitat
     Pompeu Fabra) *e-mail: simon.carrignon@bsc.es*
--   
 
 
-<!--
-### Scientific Committee
+## Scientific Committee
 
 - Alex Bentley (University of Houston)
-
 - Robert Boyd (Arizona State University) 
-
 - Mark Collard (Simon Fraser University)
-
 - Bernat Corominas-Murtra (Medical University of Vienna)
-
 - Péter Erdi (Kalamazoo College) 
-
 - Daniel Garcia Rivero (Universidad de Sevilla)
-
 - Carl Lipo (California State University Long Beach) 
-
 - Mike J. O'Brien (University of Missouri)
-
 - Charles Perreault (Arizona State University)
-
 - Stephen Shennan (University College London)
 
 
