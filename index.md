@@ -9,12 +9,12 @@ feature_text: |
 
 Human sociocultural evolution has been documented throughout the history
 of humans and earlier hominins. This evolution manifests itself through
-development from tools as simple as a rock used to break nuts, to as
+development from tools as simple as a rock used to break nuts, to something as
 complex as a spaceship able to land man on other planets. Equally, we
 have witnessed evolution of human population towards complex multilevel
 social organisation.
 
-Although cases of decrease and loss of this type of complexity* *have
+Although cases of decrease and loss of this type of complexity have
 been reported, in global terms it tends to increase with time. Despite
 its significance, the conditions and the factors driving this increase
 are still poorly understood and subject to debate. Different hypothesis
@@ -33,7 +33,6 @@ Here we raise a number of questions:
 4.  How can we quantify and compare the impact of different factors?
 5.  What causes a loss of cultural complexity in a society? And how
     often these losses occurred in the past?
-6.  ...
 
 
 
