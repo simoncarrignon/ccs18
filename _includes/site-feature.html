@@ -8,8 +8,11 @@
 
 {% if feature_text or feature_image %}
   <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}>
-      <div class="container  typeset">
-        {{ feature_text | markdownify }}
+      <div class="container  typeset" style="color:white">
+	  <h2 style="color:white">Evolution of Cultural Complexity</h2>
+  September 21, 2017 (8:30-17:00)
+  Cancun, Mexico 
+
       </div>
   </div>
 {% endif %}
