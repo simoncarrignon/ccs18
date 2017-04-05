@@ -8,18 +8,19 @@ feature_text: |
 ---
 
 
-## Organizing Commities
+### Organizing Commities
 
--   Sergi Valverde (Universitat Pompeu Fabra) *e-mail:
-    sergi.valverde@upf.edu*
--   María Coto (Barcelona Supercomputing Center (BSC) & Universitat
-    de Barcelona) *e-mail: maria.coto@bsc.es*
--   Iza Romanowska (Barcelona Supercomputing Center (BSC)) *e-mail:
-    iza.romanowska@bsc.es*
--   Simon Carrignon (Barcelona Supercomputing Center (BSC) & Universitat
-    Pompeu Fabra) *e-mail: simon.carrignon@bsc.es*
+-   Sergi Valverde (Universitat Pompeu Fabra)
+e-mail:  *sergi.valverde@upf.edu*
+-   Iza Romanowska (Barcelona Supercomputing Center (BSC)) 
+e-mail: *iza.romanowska@bsc.es*
+-   Simon Carrignon (Barcelona Supercomputing Center (BSC) & Universitat Pompeu Fabra) 
+e-mail: *simon.carrignon@bsc.es*
+-   María Coto (Barcelona Supercomputing Center (BSC) & Universitatde Barcelona)
+e-mail:*maria.coto@bsc.es*
 
 
+<!---
 ## Scientific Committee
 
 - Alex Bentley (University of Houston)
