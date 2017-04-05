@@ -100,9 +100,12 @@ navigation_footer:
     BSC : 
         url: http://bsc.es
         logo: /assets/logo/bsc.png
-    CCS17 : 
-        url: http://ccs17.unam.mx
-        logo: /logo.png
+    IBE : 
+        url: https://www.ibe.upf-csic.es/ 
+        logo: /assets/logo/ibe_logo.png
+    AEI : 
+        url: https://www.ibe.upf-csic.es/ 
+        logo: /assets/logo/aei_logo.png
     EPNet : 
         url: http://www.roman-ep.net
         logo: /assets/logo/epnet.png
