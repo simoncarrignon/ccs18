@@ -66,7 +66,9 @@ defaults:
       type: pages
     values:
       layout: home # Default layout
-      feature_image: "/assets/unnamed2.png" # Default image for sharing
+      feature_image: "/assets/unnamed2.png"
+      text-color: "white" 
+      color: "white" 
   -
     scope:
       path: ""
@@ -80,7 +82,7 @@ encoding: utf-8 # Make sure the encoding is right
 title: "Evolution of Cultural Complexity" # Site name or title, also used in jekyll-seo-tag
 logo: "/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Satellite Session @ CCS 2017 Cancun" # Site description and default description, also used in jekyll-seo-tag
-url: "https://css17.bsc.es" # Site url, also used in jekyll-seo-tag
+url: "https://ccs17.bsc.es" # Site url, also used in jekyll-seo-tag
 repo: ""
 email: "simon.carrignon@bsc.es"
 disqus: "alembic-1"
