@@ -27,8 +27,7 @@ approach is informed by the convergence between simulation and formal
 methods in archaeological studies and recent developments in complex
 systems science and complex network analysis.
 
-The session will focus but is not limited to::
-
+The session will focus but is not limited to:
 -   Social dynamics of innovation.
 -   Cumulative Culture and social learning.
 -   Evolution of Technology and technological changes
@@ -36,17 +35,19 @@ The session will focus but is not limited to::
 -   Population Dynamics and Demographic Studies
 -   Computer tools to understand the cultural evolutionary change
 
+<!---
 ### Submission
 
 Submissions will be made by sending one A4 page abstract in PDF via Easychair.
 
-The deadline for abstract submssion is 22 June 2015 30 June 2015.
+The deadline for abstract submssion 
 
 The contributions to this satellite will be evaluated by the scientific committee through a peer review process that will evaluate the scientific quality and the relevance to the goal of this workshop.
 
-Notifications of accepted abstracts will be communicated by end of July 2015.
+Notifications of accepted abstracts will be communicated by end of July 2017.
 
 
 Registration
 
 ALL the speakers and participants of this satellite have to register for CCS'15 here (early registration feeds applied up to June 30th).
+--->
