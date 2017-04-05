@@ -1,12 +1,9 @@
 ---
 title: Speakers
-feature_text: |
-  ## Evolution of Cultural Complexity
-  September 21, 2017 (8:30-17:00)
-  Cancun, Mexico 
 
 ---
 
+### List of invited speakers
 To Be Announced
 
 <!---
