@@ -92,9 +92,10 @@ avatarurl: "" # Uses avatars for favicons to get multple sites, eg Gravatar, Twi
 navigation_header:
   Home: /
   Goals: /goals/
+  Program: /program/
   Speakers: /speakers/
   Committies: /committies/
-  Program: /program/
+  Sponsors: /sponsors/
 
 navigation_footer:
     BSC : 
