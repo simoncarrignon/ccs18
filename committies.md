@@ -20,8 +20,11 @@ e-mail: *simon.carrignon@bsc.es*
 e-mail:*maria.coto@bsc.es*
 
 
-<!---
 ## Scientific Committee
+
+TBA 
+
+<!---
 
 - Alex Bentley (University of Houston)
 - Robert Boyd (Arizona State University) 
