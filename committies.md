@@ -1,5 +1,5 @@
 ---
-title: Commities
+title: Committees
 feature_text: |
   ## Evolution of Cultural Complexity
   September 21, 2017 (8:30-17:00)
@@ -8,7 +8,7 @@ feature_text: |
 ---
 
 
-### Organizing Commities
+### Organizing Committee
 
 -   Sergi Valverde (Universitat Pompeu Fabra)
 e-mail:  *sergi.valverde@upf.edu*

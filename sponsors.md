@@ -8,6 +8,11 @@ feature_text: |
 ---
 
 
+ 
+{% include figure.html image="http://ccs17.unam.mx/images/logo.png" style="width:300px" %} [Conference on Complex Systems 2017](http://ccs17.unam.mx/)
+
+------
+
 {% include figure.html image="/assets/logo/bsc-large.png" style="width:500px" %}[Barcelona Supercomputing Center](http://bsc.es/)
 
 ------
@@ -26,7 +31,12 @@ feature_text: |
 ------
 
  
-{% include figure.html image="/assets/logo/epnet.png" style="width:200px" %} [EPNet project](http://www.roman-ep.net/)
+{% include figure.html image="/assets/logo/epnet.png" style="width:200px" %} [Economic & Political Network project](http://www.roman-ep.net/)
+ 
+
+
+
+
  
 
 
