@@ -25,10 +25,12 @@ e-mail:*maria.coto@bsc.es*
 TBA 
 
 
-
 <!---
 
-- Alex Bentley (University of Houston)
+-   Alberto Acerbi (Eindhoven University of Technology)
+-   Ruth Mace (University College London)
+
+
 - Robert Boyd (Arizona State University) 
 - Mark Collard (Simon Fraser University)
 - Bernat Corominas-Murtra (Medical University of Vienna)
