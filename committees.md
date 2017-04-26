@@ -22,7 +22,7 @@ feature_text: |
 -   Alberto Acerbi (Eindhoven University of Technology)
 -   Daniel Garcia Rivero (Universidad de Sevilla)
 -   Stephen Shennan (University College London)
--   Victoria Reyes-Garcia (Universidad Auntonoma de Barcelona)
+-   Victoria Reyes-Garcia (Universitat Autònoma de Barcelona)
 
 <!---
 
