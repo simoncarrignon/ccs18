@@ -16,7 +16,7 @@ feature_text: |
 -   [María Coto](mailto:maria.coto(at)bsc.es) (Barcelona Supercomputing Center (BSC) & Universitatde Barcelona)
 
 
-## Scientific Committee
+### Scientific Committee
 
 
 -   Alberto Acerbi (Eindhoven University of Technology)
