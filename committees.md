@@ -25,9 +25,11 @@ e-mail:*maria.coto@bsc.es*
 
 -   Alberto Acerbi (Eindhoven University of Technology)
 -   Daniel Garcia Rivero (Universidad de Sevilla)
-<!---
--   Ruth Mace (University College London)
 
+<!---
+
+
+-   Ruth Mace (University College London)
 
 - Robert Boyd (Arizona State University) 
 - Mark Collard (Simon Fraser University)
