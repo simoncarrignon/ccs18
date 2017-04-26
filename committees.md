@@ -21,6 +21,8 @@ feature_text: |
 
 -   Alberto Acerbi (Eindhoven University of Technology)
 -   Daniel Garcia Rivero (Universidad de Sevilla)
+-   Stephen Shennan (University College London)
+-   Victoria Reyes-Garcia (Universidad Auntonoma de Barcelona)
 
 <!---
 
@@ -35,7 +37,7 @@ feature_text: |
 - Carl Lipo (California State University Long Beach) 
 - Mike J. O'Brien (University of Missouri)
 - Charles Perreault (Arizona State University)
-- Stephen Shennan (University College London)
+
 
 
 -->
