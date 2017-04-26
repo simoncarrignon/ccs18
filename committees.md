@@ -23,6 +23,8 @@ feature_text: |
 -   Daniel Garcia Rivero (Universidad de Sevilla)
 -   Stephen Shennan (University College London)
 -   Victoria Reyes-Garcia (Universitat Autònoma de Barcelona)
+-   Enrico Crema (University of Cambridge)
+
 
 <!---
 
@@ -33,7 +35,6 @@ feature_text: |
 - Mark Collard (Simon Fraser University)
 - Bernat Corominas-Murtra (Medical University of Vienna)
 - Péter Erdi (Kalamazoo College) 
-- Daniel Garcia Rivero (Universidad de Sevilla)
 - Carl Lipo (California State University Long Beach) 
 - Mike J. O'Brien (University of Missouri)
 - Charles Perreault (Arizona State University)
