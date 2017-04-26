@@ -22,12 +22,10 @@ e-mail:*maria.coto@bsc.es*
 
 ## Scientific Committee
 
-TBA 
-
-
-<!---
 
 -   Alberto Acerbi (Eindhoven University of Technology)
+-   Daniel Garcia Rivero (Universidad de Sevilla)
+<!---
 -   Ruth Mace (University College London)
 
 
