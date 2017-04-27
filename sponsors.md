@@ -1,5 +1,5 @@
 ---
-title: Commities
+title: Sponsors
 feature_text: |
   ## Evolution of Cultural Complexity
   September 21, 2017 (8:30-17:00)
