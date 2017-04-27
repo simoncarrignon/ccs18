@@ -24,7 +24,7 @@ feature_text: |
 -   Stephen Shennan (University College London)
 -   Victoria Reyes-Garcia (Universitat Autònoma de Barcelona)
 -   Enrico Crema (University of Cambridge)
-
+-   Laura Fortunato (University of Oxford - Santa Fe Institute)
 
 <!---
 
