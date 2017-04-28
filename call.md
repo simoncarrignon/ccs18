@@ -23,3 +23,6 @@ Notifications of accepted abstracts will be communicated by beginning of August 
 
 All the speakers and participants of this satellite will have to register for CCS17. More informations will be soon available [here](http://ccs.umam.mx).
 
+### Contact
+
+If you have any doubt or question about the submission process or the session in general, please write us at [ccs17@bsc.es](mailto:ccs17@bsc.es).
