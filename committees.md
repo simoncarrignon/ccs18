@@ -14,6 +14,7 @@ feature_text: |
 -   [Iza Romanowska](mailto:iza.romanowska@bsc.es) (Barcelona Supercomputing Center (BSC))
 -   [Simon Carrignon](mailto:simon.carrignon@bsc.es) (Barcelona Supercomputing Center (BSC) & Universitat Pompeu Fabra)
 -   [María Coto](mailto:maria.coto@bsc.es) (Barcelona Supercomputing Center (BSC) & Universitat de Barcelona)
+-   [Xavier Rubio](mailto:xavier.rubio@ed.ac.uk) (University of Edinburgh)
 
 
 ### Scientific Committee
