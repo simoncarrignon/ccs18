@@ -12,11 +12,11 @@ feature_text: |
 
 ### Submissions
 
-Submissions will be made by sending a **250 words** abstract  via Easychair [here](https://easychair.org/conferences/?conf=eec2017). The deadline for abstract submission is on **the 17th of June 2017**. The contributions to this satellite will be evaluated by the scientific committee through a peer review process that will evaluate the scientific quality and the relevance to the goal of this session. Notification of accepted abstracts will be communicated by beginning of August.
+Submissions will be made by sending a **250 words** abstract  via Easychair [here](https://easychair.org/conferences/?conf=eec2017). The deadline for abstract submission is on **the 26 of May 2017**. 
 
-The contributions to this satellite will be evaluated by the scientific committee through a peer review process that will evaluate the scientific quality and the relevance to the goal of this workshop.
+The contributions to this satellite will be evaluated by the scientific committee through a peer review process that will evaluate the scientific quality and the relevance to the goal of this session. Notification of accepted abstracts will be communicated by 5 of June .
 
-Notifications of accepted abstracts will be communicated by beginning of August 2017.
+
 
 
 ### Registration
