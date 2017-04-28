@@ -10,10 +10,10 @@ feature_text: |
 
 ### Organizing Committee
 
--   [Sergi Valverde](mailto:sergi.valverde(at)upf.edu)(Universitat Pompeu Fabra)
--   [Iza Romanowska](mailto:iza.romanowska(at)bsc.es) (Barcelona Supercomputing Center (BSC))
--   [Simon Carrignon](mailto:simon.carrignon(at)bsc.es) (Barcelona Supercomputing Center (BSC) & Universitat Pompeu Fabra)
--   [María Coto](mailto:maria.coto(at)bsc.es) (Barcelona Supercomputing Center (BSC) & Universitatde Barcelona)
+-   [Sergi Valverde](mailto:sergi.valverde@upf.edu) Universitat Pompeu Fabra)
+-   [Iza Romanowska](mailto:iza.romanowska@bsc.es) (Barcelona Supercomputing Center (BSC))
+-   [Simon Carrignon](mailto:simon.carrignon@bsc.es) (Barcelona Supercomputing Center (BSC) & Universitat Pompeu Fabra)
+-   [María Coto](mailto:maria.coto@bsc.es) (Barcelona Supercomputing Center (BSC) & Universitatde Barcelona)
 
 
 ### Scientific Committee
