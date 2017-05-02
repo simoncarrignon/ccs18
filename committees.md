@@ -27,6 +27,7 @@ feature_text: |
 -   Enrico Crema (University of Cambridge)
 -   Laura Fortunato (University of Oxford - Santa Fe Institute)
 -   Charlotte Brand (University of Exeter)
+-   Albert Diaz-Guilera (Universitat Barcelona) 
 
 <!---
 
