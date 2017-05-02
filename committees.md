@@ -24,10 +24,10 @@ feature_text: |
 -   Daniel Garcia Rivero (Universidad de Sevilla)
 -   Stephen Shennan (University College London)
 -   Victoria Reyes-Garcia (Universitat Autònoma de Barcelona)
+-   Albert Diaz-Guilera (Universitat Barcelona) 
 -   Enrico Crema (University of Cambridge)
 -   Laura Fortunato (University of Oxford - Santa Fe Institute)
--   Charlotte Brand (University of Exeter)
--   Albert Diaz-Guilera (Universitat Barcelona) 
+-   Charlotte Brand (University of Exeter) 
 
 <!---
 
