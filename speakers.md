@@ -3,7 +3,8 @@ title: Speakers
 
 ---
 
-### Tom Froese (Universidad Nacional Autónoma de México)
+### Tom Froese
+(Universidad Nacional Autónoma de México)
 
 
 {% include figure.html image="/assets/froese.jpg" alt="Tom Froese, UNAM" %}
