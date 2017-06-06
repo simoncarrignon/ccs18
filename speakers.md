@@ -4,7 +4,10 @@ title: Speakers
 ---
 
 ### List of invited speakers
-To Be Announced
+
+- Tom Froese (Universidad Nacional Autónoma de México)
+
+More invited speakers will be announced soon! 
 
 <!---
 -   Enrico Crema (University of Cambridge)
