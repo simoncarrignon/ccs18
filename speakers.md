@@ -18,6 +18,6 @@ webpage: [froese.wordpress.com](https://froese.wordpress.com/)
 ### Alex Bentley *(University of Houston)*
 
 
-{% include figure.html image="/assets/bentley.jpg" alt="Alex Bentley, Houston Univ." %}
+{% include figure.html image="/assets/bentley.png" alt="Alex Bentley, Houston Univ." %}
 
 webpage: [alex-bentley.com](http://www.alex-bentley.com/)
