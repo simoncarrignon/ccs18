@@ -12,4 +12,12 @@ Tom Froese is a faculty member of the National Autonomous University of Mexico (
 
 He is also a member of the Center for the Sciences of Complexity (C3) and coordinator of the 4E Cognition Group.
 
-webpage: https://froese.wordpress.com/
+webpage: [froese.wordpress.com](https://froese.wordpress.com/)
+
+
+### Alex Bentley *(University of Houston)*
+
+
+{% include figure.html image="/assets/bentley.jpg" alt="Alex Bentley, Houston Univ." %}
+
+webpage: [alex-bentley.com](http://www.alex-bentley.com/)
