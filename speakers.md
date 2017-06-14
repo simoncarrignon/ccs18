@@ -24,6 +24,6 @@ Alex Bentley is a Professor at the University of Houston and soon to be Professo
 
 {% include figure.html image="/assets/bentley_book.jpg" position="right" alt="Alex Bentley, Houston Univ."  %}
 "The Acceleration of Cultural Change: From Ancestors to Algorithms" *(M.I.T. Press, forthcoming 2017)* 
-
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
 webpage: [alex-bentley.com](http://www.alex-bentley.com/)
