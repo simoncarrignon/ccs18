@@ -6,7 +6,7 @@ title: Speakers
 ### Tom Froese *(Universidad Nacional Autónoma de México)*
 
 
-{% include figure.html image="/assets/froese.jpg" alt="Tom Froese, UNAM" %}
+{% include figure.html style="height:100px"  image="/assets/froese.jpg" alt="Tom Froese, UNAM" %}
 
 Tom Froese is a faculty member of the National Autonomous University of Mexico (UNAM), at the Department of Computer Science in the Institute of Applied Mathematics and Systems Research (IIMAS).
 
@@ -26,7 +26,7 @@ webpage: [froese.wordpress.com](https://froese.wordpress.com/)
 ### Alex Bentley *(University of Houston)*
 
 
-{% include figure.html image="/assets/bentley.png" alt="Alex Bentley, Houston Univ." %}
+{% include figure.html style="height:100px"  image="/assets/bentley.png" alt="Alex Bentley, Houston Univ." %}
 
 Alex Bentley is a Professor at the University of Houston and soon to be Professor and Chair of Anthropology at the University of Tennessee. His research has explored cultural change in different environments, from prehistoric societies to contemporary communities. He just wrote a book with Michael O'Brien on a topic closely related to the session : 
 
@@ -42,7 +42,7 @@ webpage: [alex-bentley.com](http://www.alex-bentley.com/)
 ### Sergi Valverde *(Univ. Pompeu Fabra & CSIC)*
 
 
-{% include figure.html image="https://pbs.twimg.com/profile_images/754818842573012992/KG9MyN79.jpg" alt="Sergi Valverde" style="heighth:100px" %}
+{% include figure.html style="height:100px"  image="https://pbs.twimg.com/profile_images/754818842573012992/KG9MyN79.jpg" alt="Sergi Valverde" %}
 
 Sergi Valverde is a lecturer in the department of experimental and health sciences at the Universitat Pompeu Fabra (Barcelona) and member of the Complex Systems Lab at Universitat Pompeu Fabra where he leads the program on the evolution of technology. Trained in informatics engineering, Valverde's research work spans the evolution of technology, the dynamics and evolution of complex networks and artificial life.
 
