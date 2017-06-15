@@ -42,7 +42,7 @@ webpage: [alex-bentley.com](http://www.alex-bentley.com/)
 ### Sergi Valverde *(Univ. Pompeu Fabra & CSIC)*
 
 
-{% include figure.html image="http://svalver.github.io/images/valverde_header.png" alt="Sergi Valverde" style="heighth:100px" %}
+{% include figure.html image="https://pbs.twimg.com/profile_images/754818842573012992/KG9MyN79.jpg" alt="Sergi Valverde" style="heighth:100px" %}
 
 Sergi Valverde is a lecturer in the department of experimental and health sciences at the Universitat Pompeu Fabra (Barcelona) and member of the Complex Systems Lab at Universitat Pompeu Fabra where he leads the program on the evolution of technology. Trained in informatics engineering, Valverde's research work spans the evolution of technology, the dynamics and evolution of complex networks and artificial life.
 
