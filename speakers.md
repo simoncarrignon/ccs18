@@ -12,12 +12,12 @@ Tom Froese is a faculty member of the National Autonomous University of Mexico (
 
 He is also a member of the Center for the Sciences of Complexity (C3) and coordinator of the 4E Cognition Group.
 
-He is interested in the dynamics of ritual practice, especially in the role of extreme rituals in the emergence of cognitive modernity (e.g. Froese et al. 2013; Woodward et al. 2015) and in the role of community ritual as a driver of early sociocultural complexity (e.g. Froese et al. 2014).”
+He is interested in the dynamics of ritual practice, especially in the role of extreme rituals in the emergence of cognitive modernity (e.g. Froese et al. 2013; Woodward et al. 2015) and in the role of community ritual as a driver of early sociocultural complexity (e.g. Froese et al. 2014).
 
-- Froese, T., Woodward, A., & Ikegami, T. (2013). Turing instabilities in biology, culture, and consciousness? On the enactive origins of symbolic material culture. Adaptive Behavior, 21(3), 199-214. 
-- Woodward, A., Froese, T., & Ikegami, T. (2015). Neural coordination can be enhanced by occasional interruption of normal firing patterns: A self-optimizing spiking neural network model. Neural Networks, 62, 39-46
-- Froese, T., Gershenson, C., & Manzanilla, L. R. (2014). Can government be self-organized? A mathematical model of the collective social organization of ancient Teotihuacan, Central Mexico. Plos One, 9(10), e109966. doi:10.1371/journal.pone.0109966
-{:style=" font-size: 80%;line-height: 95%;"}
+    - Froese, T., Woodward, A., & Ikegami, T. (2013). Turing instabilities in biology, culture, and consciousness? On the enactive origins of symbolic material culture. *Adaptive Behavior*, 21(3), 199-214. 
+    - Woodward, A., Froese, T., & Ikegami, T. (2015). Neural coordination can be enhanced by occasional interruption of normal firing patterns: A self-optimizing spiking neural network model. *Neural Networks*, 62, 39-46
+    - Froese, T., Gershenson, C., & Manzanilla, L. R. (2014). Can government be self-organized? A mathematical model of the collective social organization of ancient Teotihuacan, Central Mexico. *Plos One*, 9(10), e109966. doi:10.1371/journal.pone.0109966
+{:style=" font-size: 70%;line-height: 95%;"}
 
 
 webpage: [froese.wordpress.com](https://froese.wordpress.com/)
