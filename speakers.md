@@ -37,3 +37,13 @@ Alex Bentley is a Professor at the University of Houston and soon to be Professo
 </center>
 
 webpage: [alex-bentley.com](http://www.alex-bentley.com/)
+
+
+### Sergi Valverde *(Univ. Pompeu Fabra & CSIC)*
+
+
+{% include figure.html image="/assets/valverde.png" alt="Sergi Valverde" %}
+
+Sergi Valverde is a lecturer in the department of experimental and health sciences at the Universitat Pompeu Fabra (Barcelona) and member of the Complex Systems Lab at Universitat Pompeu Fabra where he leads the program on the evolution of technology. Trained in informatics engineering, Valverde's research work spans the evolution of technology, the dynamics and evolution of complex networks and artificial life.
+
+webpage: [svalver.github.io](http://svalver.github.io/)
