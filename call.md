@@ -12,7 +12,7 @@ feature_text: |
 
 ### Submissions
 
-**The call for abstract is now closed.**
+The call for abstract is closed.
 
 ~~Submissions will be made by sending a **250 words** abstract  via Easychair [here](https://easychair.org/conferences/?conf=eec2017). The deadline for abstract submission is on ~~the 26 of May 2017~~ ~~**the 15th of June 2017** . ~~
 
