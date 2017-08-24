@@ -9,7 +9,7 @@ feature_text: |
 {: style="color:grey; font-size: 200%;text-align: center;"}
 ### SATELLITE SESSION SCHEDULE
 
-
+\
 {: style="color:#332255;"}
 **9:00 - 9:20  OPENING**
 
