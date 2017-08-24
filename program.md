@@ -10,7 +10,7 @@ feature_text: |
 ### SATELLITE SESSION SCHEDULE
 
 
-{: style="#332255;"}
+{: style="color:#332255;"}
 **9:00 - 9:20  OPENING**
 
 {: style="color:gray; font-size: 150%;"}
@@ -29,7 +29,7 @@ Brais Alvarez-Pereira (European University Institute),
 Alireza Goudarzi (Laboratory for Neural Computation and Adaptation),
 Leonhard Horstmeyer (Max Planck Institute for Mathematics in the Sciences)
 
-{: style="#332255;"}
+{: style="color:#332255;"}
 **10:30 - 11:00 COFFEE BREAK** 
 
 **11:00 - 11:25** 
@@ -64,7 +64,7 @@ Increasing complexity: steps in the (chrono)logic of cultural evolution
 {: style="font-size: 80%;"}
 Barend van Heusden (University of Groningen)
 
-{: style="#332255;"}
+{: style="color:#332255;"}
 **13:00 - 14:30 LUNCH TIME**
 
 **14:30 - 14:55**   
@@ -88,7 +88,7 @@ Tom Froese (IIMAS-UNAM)
 
 **15:20- 16:00** Keynote speaker  Alex Bentley
 
-{: style="#332255;"}
+{: style="color:#332255;"}
 **16:00 - 16:30** **COFFEE BREAK**  
 
 **16:30 - 16:55** 
@@ -120,9 +120,10 @@ Long-term trends in the Roman imperial economic system: experiments on amphora r
 {: style="font-size: 80%;"}
 Tom Brughmans (University of Oxford) 
 
-{: style="#332255;"}
+{: style="color:#332255;"}
 **18:10 - 18:30 DISCUSSION** 
-{: style="#332255;"}
+
+{: style="color:#332255;"}
 **19:00 WELCOME COCKTAIL** 
 
 
