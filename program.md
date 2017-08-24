@@ -6,8 +6,9 @@ feature_text: |
   Cancun, Mexico 
 
 ---
+<center>
 ### SATELLITE SESSION SCHEDULE
-
+</center>
 **9:00 - 9:20  OPENING**
 #### SESSION 1. Social Construction of Cultural Complexity
 
