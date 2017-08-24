@@ -8,7 +8,7 @@ feature_text: |
 ---
 {: style="color:grey; font-size: 200%;text-align: center;"}
 ### SATELLITE SESSION SCHEDULE
-
+<br/>
 {: style="color:#332255;"}
 **9:00 - 9:20  OPENING**
 
@@ -50,8 +50,7 @@ Yamir Moreno (Instituto de Biocomputación y Física de Sistemas Complejos, Univ
 
 {: style="color:gray; font-size: 150%;"}
 #### SESSION 2. Model of evolution of culture
-
-
+<br/>
 **11:50 - 12:30** Keynote speaker  Sergi Valverde 
 
 
@@ -82,8 +81,7 @@ Tom Froese (IIMAS-UNAM)
 
 {: style="color:gray; font-size: 150%;"}
 #### SESSION 3. Archaeological evidence of Cultural Complexity  
-
-
+<br/>
 **15:20- 16:00** Keynote speaker  Alex Bentley
 
 {: style="color:#332255;"}
