@@ -20,12 +20,12 @@ feature_text: |
 **10:00 - 10:25**
 
 Global information and consensus formation: theory and simulation
-{: style="color:black; font-size: 80%;"}
+
 Francesca Lipari (Lumsa University)
 Brais Alvarez-Pereira (European University Institute)
 Alireza Goudarzi (Laboratory for Neural Computation and Adaptation)
 Leonhard Horstmeyer (Max Planck Institute for Mathematics in the Sciences)
-
+{: style="color:black; font-size: 150%;"}
 **10:30 - 11:00 COFFEE BREAK** 
 
 **11:00 - 11:25** 
