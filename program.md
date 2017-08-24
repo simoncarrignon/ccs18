@@ -8,7 +8,7 @@ feature_text: |
 ---
 ### Program
 
-To Be Announced
+Hello world
 
 <!---
 Knowing the controversial nature of the topic and the lack of consensus on thoses questions, we think (and know by experience?) that the best format to successfully push forward the discussion is a one day satellite with time for discussion.  
