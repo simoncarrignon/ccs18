@@ -6,7 +6,7 @@ feature_text: |
   Cancun, Mexico 
 
 ---
-{: style="color:blue; font-size: 200%;text-align: center;"}
+{: style="color:grey; font-size: 200%;text-align: center;"}
 ### SATELLITE SESSION SCHEDULE
 
 
