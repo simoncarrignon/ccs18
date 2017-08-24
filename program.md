@@ -9,21 +9,13 @@ feature_text: |
 {: style="color:grey; font-size: 200%;text-align: center;"}
 ### SATELLITE SESSION SCHEDULE
 
-
-
-
-
-
-
-
-
 {: style="color:#332255;"}
 **9:00 - 9:20  OPENING**
 
 {: style="color:gray; font-size: 150%;"}
 #### SESSION 1. Social Construction of Cultural Complexity
 
-
+</br>
 **9:20 - 10:00** Keynote speaker Tom Froese
 
 **10:00 - 10:25**
