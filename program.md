@@ -20,8 +20,7 @@ feature_text: |
 
 **10:00 - 10:25**
 
-Global information and consensus formation: theory and simulation
-
+Global information and consensus formation: theory and simulation<br/>
 {: style="font-size: 80%;"}
 Francesca Lipari (Lumsa University),
 Brais Alvarez-Pereira (European University Institute),
