@@ -20,7 +20,8 @@ feature_text: |
 
 **10:00 - 10:25**
 
-Global information and consensus formation: theory and simulation<br/>
+Global information and consensus formation: theory and simulation
+
 {: style="font-size: 80%;"}
 Francesca Lipari (Lumsa University),
 Brais Alvarez-Pereira (European University Institute),
@@ -123,7 +124,7 @@ Tom Brughmans (University of Oxford)
 **19:00 WELCOME COCKTAIL** 
 
 
-[Schedule and abstracts info here](assets/ECC17program+book_of_abstract.pdf)
+[Schedule and abstracts info here](/assets/ECC17program+book_of_abstract.pdf)
 
 
 
