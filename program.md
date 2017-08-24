@@ -21,7 +21,7 @@ feature_text: |
 
 Global information and consensus formation: theory and simulation
 
-{: font-size: 80%;"}
+{: style="font-size: 80%;"}
 Francesca Lipari (Lumsa University)
 Brais Alvarez-Pereira (European University Institute)
 Alireza Goudarzi (Laboratory for Neural Computation and Adaptation)
