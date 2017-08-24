@@ -123,9 +123,9 @@ Tom Brughmans (University of Oxford)
 {: style="color:#332255;"}
 **19:00 WELCOME COCKTAIL** 
 
-
+<center>
 [Schedule and abstracts info here](/assets/ECC17program+book_of_abstract.pdf)
-
+</center>
 
 
 <!---
