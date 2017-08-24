@@ -6,13 +6,13 @@ feature_text: |
   Cancun, Mexico 
 
 ---
-{: style="color:gray; font-size: 200%; text-align: center;"}
+{: style="color:gray; font-size: 200%;text-align: center;"}
 ### SATELLITE SESSION SCHEDULE
 
 
 **9:00 - 9:20  OPENING**
 
-{: style="color:gray; font-size: 150%; text-align: center;"}
+{: style="color:gray; font-size: 150%;"}
 #### SESSION 1. Social Construction of Cultural Complexity
 
 **9:20 - 10:00** Keynote speaker Tom Froese
@@ -44,7 +44,7 @@ Alexis R Hernández (Instituto de Física, Universidade Federal do Rio de Janeir
 Edgardo Brigatti (Instituto de Física, Universidade Federal do Rio de Janeiro)
 Yamir Moreno (Instituto de Biocomputación y Física de Sistemas Complejos, Universidad de Zaragoza) 
 
-{: style="color:gray; font-size: 150%; text-align: center;"}
+{: style="color:gray; font-size: 150%;"}
 #### SESSION 2. Model of evolution of culture
 
 
@@ -72,7 +72,7 @@ A Review and Critique of Gabora's Models of Cultural Evolution
 Mario A. Zarco-López (IIMAS-UNAM)
 Tom Froese (IIMAS-UNAM)
 
-{: style="color:gray; font-size: 150%; text-align: center;"}
+{: style="color:gray; font-size: 150%;"}
 #### SESSION 3. Archaeological evidence of Cultural Complexity  
 
 **15:20- 16:00** Keynote speaker  Alex Bentley
