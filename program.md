@@ -125,7 +125,7 @@ Tom Brughmans (University of Oxford)
 
 
 
-Abstracts info here
+Schedule and abstracts info here {% image="assets/ECC17program+book_of_abstract.pdf" %}
 
 
 <!---
