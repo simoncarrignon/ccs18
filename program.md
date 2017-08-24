@@ -8,12 +8,12 @@ feature_text: |
 ---
 ### SATELLITE SESSION SCHEDULE
 
-9:00 - 9:20  **OPENING**
+**9:00 - 9:20  OPENING**
 #### SESSION 1. Social Construction of Cultural Complexity
 
-9:20 - 10:00 Keynote speaker Tom Froese
+**9:20 - 10:00** Keynote speaker Tom Froese
 
-10:00 - 10:25
+**10:00 - 10:25**
 
 Global information and consensus formation: theory and simulation
 
@@ -22,16 +22,16 @@ Brais Alvarez-Pereira (European University Institute)
 Alireza Goudarzi (Laboratory for Neural Computation and Adaptation)
 Leonhard Horstmeyer (Max Planck Institute for Mathematics in the Sciences)
 
-10:30 - 11:00 **COFFEE BREAK** 
+**10:30 - 11:00 COFFEE BREAK** 
 
-11:00 - 11:25 
+**11:00 - 11:25** 
 
 Could complex referential communication emerge without innate grammar or intergenerational transmission?
 
 Jorge I. Campos (4E CognitionGroup, Instituto de Investigación en Matemáticas Aplicadas y Sistemas, UNAM)
 Tom Froese (4E CognitionGroup, Instituto de Investigación en Matemáticas Aplicadas y Sistemas, UNAM) 
 
-11:25 - 11:50
+**11:25 - 11:50**
 
 Dynamic social conflict in the Axelrod model
 
@@ -43,24 +43,24 @@ Yamir Moreno (Instituto de Biocomputación y Física de Sistemas Complejos, Univ
 #### SESSION 2. Model of evolution of culture
 
 
-11:50 - 12:30 Keynote speaker  Sergi Valverde 
+**11:50 - 12:30** Keynote speaker  Sergi Valverde 
 
 
-12:30 - 12:55
+**12:30 - 12:55**
 
 Increasing complexity: steps in the (chrono)logic of cultural evolution
 
 Barend van Heusden (University of Groningen)
 
-13:00 - 14:30 **LUNCH TIME**
+**13:00 - 14:30 LUNCH TIME**
 
-14:30 - 14:55   
+**14:30 - 14:55**   
 
 Global knowledge dynamics in computationally assisted, complex cultural networks
 
 Thomas Petzold  (HMKW Berlin) 
 
-14:55 - 15:20 
+**14:55 - 15:20** 
 
 A Review and Critique of Gabora's Models of Cultural Evolution
 
@@ -69,37 +69,42 @@ Tom Froese (IIMAS-UNAM)
 
 #### SESSION 3. Archaeological evidence of Cultural Complexity  
 
-15:20- 16:00 Keynote speaker  Alex Bentley
+**15:20- 16:00** Keynote speaker  Alex Bentley
 
-16:00 - 16:30 **COFFEE BREAK**  
+**16:00 - 16:30** **COFFEE BREAK**  
 
-16:30 - 16:55 
+**16:30 - 16:55** 
 
 Digging for Patterns in Cave Art Marks through Symmetry Operations
+
 Emre Kaya (Bogazici University) 
 
-16:55 - 17:20  
+**16:55 - 17:20**  
 
 The role of migration in the evolution of behavioural plasticity
 
 Iza Romanowska (Barcelona Supercomputing Center) 
 Seth Bullock (University of Bristol) 
 
-17:20 - 17:45  
+**17:20 - 17:45**  
 
 Complexity matters: Uncovering mechanisms of social complexity in the past
 
 Dries Daems (University of Leuven) 
 
-17:45 - 18:10  
+**17:45 - 18:10**  
 
 Long-term trends in the Roman imperial economic system: experiments on amphora recycling and product preference
 
 Tom Brughmans (University of Oxford) 
 
-18:10 - 18:30 **DISCUSSION** 
+**18:10 - 18:30 DISCUSSION** 
 
-19:00 **WELCOME COCKTAIL** 
+**19:00 WELCOME COCKTAIL** 
+
+
+
+Abstracts info here
 
 
 <!---
