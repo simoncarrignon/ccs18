@@ -9,7 +9,7 @@ feature_text: |
 ### SATELLITE SESSION SCHEDULE
 
 9:00 - 9:20  **OPENING**
-### SESSION 1   SOCIAL CONSTRUCTION OF CULTURAL COMPLEXITY
+## SESSION 1. SOCIAL CONSTRUCTION OF CULTURAL COMPLEXITY
 9:20 - 10:00 Keynote speaker Tom Froese
 
 10:00 - 10:25
@@ -32,7 +32,7 @@ Carlos Gracia-Lázaro (Instituto de Biocomputación y Física de Sistemas Comple
 Alexis R Hernández (Instituto de Física, Universidade Federal do Rio de Janeiro)
 Edgardo Brigatti (Instituto de Física, Universidade Federal do Rio de Janeiro)
 Yamir Moreno (Instituto de Biocomputación y Física de Sistemas Complejos, Universidad de Zaragoza) 
-### SESSION 2   **MODEL OF EVOLUTION OF CULTURE**
+## SESSION 2   **MODEL OF EVOLUTION OF CULTURE**
 11:50 - 12:30 Keynote speaker  Sergi Valverde 
 12:30 - 12:55
 Increasing complexity: steps in the (chrono)logic of cultural evolution
@@ -45,7 +45,7 @@ Thomas Petzold  (HMKW Berlin)
 A Review and Critique of Gabora's Models of Cultural Evolution
 Mario A. Zarco-López (IIMAS-UNAM)
 Tom Froese (IIMAS-UNAM)
-### SESSION 3   **ARCHAEOLOGICAL EVIDENCE OF CULTURAL COMPLEXITY**
+## SESSION 3   **ARCHAEOLOGICAL EVIDENCE OF CULTURAL COMPLEXITY**
 15:20- 16:00 Keynote speaker  Alex Bentley
 16:00 - 16:30   **COFFEE BREAK**  
 16:30 - 16:55 
