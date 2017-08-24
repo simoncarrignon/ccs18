@@ -11,9 +11,13 @@ feature_text: |
 9:00 - 9:20  **OPENING**
 ### SESSION 1   SOCIAL CONSTRUCTION OF CULTURAL COMPLEXITY
 9:20 - 10:00 Keynote speaker Tom Froese
+
 10:00 - 10:25
+
 Global information and consensus formation: theory and simulation
+
 Francesca Lipari (Lumsa University)
+
 Brais Alvarez-Pereira (European University Institute)
 Alireza Goudarzi (Laboratory for Neural Computation and Adaptation)
 Leonhard Horstmeyer (Max Planck Institute for Mathematics in the Sciences)
