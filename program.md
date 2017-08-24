@@ -12,7 +12,7 @@ feature_text: |
 
 **9:00 - 9:20  OPENING**
 
-{: style="color:green; font-size: 80%; text-align: center;"}
+{: style="color:gray; font-size: 100%; text-align: center;"}
 #### SESSION 1. Social Construction of Cultural Complexity
 
 **9:20 - 10:00** Keynote speaker Tom Froese
