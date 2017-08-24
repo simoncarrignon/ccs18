@@ -11,7 +11,6 @@ feature_text: |
 9:00 - 9:20  **OPENING**
 #### SESSION 1. Social Construction of Cultural Complexity
 
-
 9:20 - 10:00 Keynote speaker Tom Froese
 
 10:00 - 10:25
@@ -50,6 +49,7 @@ Yamir Moreno (Instituto de Biocomputación y Física de Sistemas Complejos, Univ
 12:30 - 12:55
 
 Increasing complexity: steps in the (chrono)logic of cultural evolution
+
 Barend van Heusden (University of Groningen)
 
 13:00 - 14:30 **LUNCH TIME**
@@ -57,6 +57,7 @@ Barend van Heusden (University of Groningen)
 14:30 - 14:55   
 
 Global knowledge dynamics in computationally assisted, complex cultural networks
+
 Thomas Petzold  (HMKW Berlin) 
 
 14:55 - 15:20 
@@ -67,7 +68,6 @@ Mario A. Zarco-López (IIMAS-UNAM)
 Tom Froese (IIMAS-UNAM)
 
 #### SESSION 3. Archaeological evidence of Cultural Complexity  
-
 
 15:20- 16:00 Keynote speaker  Alex Bentley
 
@@ -81,17 +81,20 @@ Emre Kaya (Bogazici University)
 16:55 - 17:20  
 
 The role of migration in the evolution of behavioural plasticity
+
 Iza Romanowska (Barcelona Supercomputing Center) 
 Seth Bullock (University of Bristol) 
 
 17:20 - 17:45  
 
 Complexity matters: Uncovering mechanisms of social complexity in the past
+
 Dries Daems (University of Leuven) 
 
 17:45 - 18:10  
 
 Long-term trends in the Roman imperial economic system: experiments on amphora recycling and product preference
+
 Tom Brughmans (University of Oxford) 
 
 18:10 - 18:30 **DISCUSSION** 
