@@ -23,9 +23,9 @@ feature_text: |
 Global information and consensus formation: theory and simulation
 
 {: style="font-size: 80%;"}
-Francesca Lipari (Lumsa University)
-Brais Alvarez-Pereira (European University Institute)
-Alireza Goudarzi (Laboratory for Neural Computation and Adaptation)
+Francesca Lipari (Lumsa University),
+Brais Alvarez-Pereira (European University Institute),
+Alireza Goudarzi (Laboratory for Neural Computation and Adaptation),
 Leonhard Horstmeyer (Max Planck Institute for Mathematics in the Sciences)
 
 
@@ -36,7 +36,7 @@ Leonhard Horstmeyer (Max Planck Institute for Mathematics in the Sciences)
 Could complex referential communication emerge without innate grammar or intergenerational transmission?
 
 {: style="font-size: 80%;"}
-Jorge I. Campos (4E CognitionGroup, Instituto de Investigación en Matemáticas Aplicadas y Sistemas, UNAM)
+Jorge I. Campos (4E CognitionGroup, Instituto de Investigación en Matemáticas Aplicadas y Sistemas, UNAM),
 Tom Froese (4E CognitionGroup, Instituto de Investigación en Matemáticas Aplicadas y Sistemas, UNAM) 
 
 **11:25 - 11:50**
@@ -44,9 +44,9 @@ Tom Froese (4E CognitionGroup, Instituto de Investigación en Matemáticas Aplic
 Dynamic social conflict in the Axelrod model
 
 {: style="font-size: 80%;"}
-Carlos Gracia-Lázaro (Instituto de Biocomputación y Física de Sistemas Complejos, Universidad de Zaragoza)
-Alexis R Hernández (Instituto de Física, Universidade Federal do Rio de Janeiro)
-Edgardo Brigatti (Instituto de Física, Universidade Federal do Rio de Janeiro)
+Carlos Gracia-Lázaro (Instituto de Biocomputación y Física de Sistemas Complejos, Universidad de Zaragoza),
+Alexis R Hernández (Instituto de Física, Universidade Federal do Rio de Janeiro),
+Edgardo Brigatti (Instituto de Física, Universidade Federal do Rio de Janeiro),
 Yamir Moreno (Instituto de Biocomputación y Física de Sistemas Complejos, Universidad de Zaragoza) 
 
 {: style="color:gray; font-size: 150%;"}
@@ -77,7 +77,7 @@ Thomas Petzold  (HMKW Berlin)
 A Review and Critique of Gabora's Models of Cultural Evolution
 
 {: style="font-size: 80%;"}
-Mario A. Zarco-López (IIMAS-UNAM)
+Mario A. Zarco-López (IIMAS-UNAM),
 Tom Froese (IIMAS-UNAM)
 
 {: style="color:gray; font-size: 150%;"}
@@ -100,7 +100,7 @@ Emre Kaya (Bogazici University)
 The role of migration in the evolution of behavioural plasticity
 
 {: style="font-size: 80%;"}
-Iza Romanowska (Barcelona Supercomputing Center) 
+Iza Romanowska (Barcelona Supercomputing Center), 
 Seth Bullock (University of Bristol) 
 
 **17:20 - 17:45**  
