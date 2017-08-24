@@ -6,7 +6,7 @@ feature_text: |
   Cancun, Mexico 
 
 ---
-{: style="color:gray; font-size: 40%; text-align: center;"}
+{: style="color:gray; font-size: 150%; text-align: center;"}
 ### SATELLITE SESSION SCHEDULE
 
 **9:00 - 9:20  OPENING**
