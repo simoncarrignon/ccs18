@@ -16,7 +16,7 @@ feature_text: |
 {: style="color:gray; font-size: 150%;"}
 #### SESSION 1. Social Construction of Cultural Complexity
 <br/>
-**9:20 - 10:00** Keynote speaker **Tom Froese
+**9:20 - 10:00** Keynote speaker **Tom Froese**
 
 Can cultural complexity emerge via collective ritual? The case of ancient Teotihuacan
 
@@ -54,7 +54,7 @@ Yamir Moreno (Instituto de Biocomputación y Física de Sistemas Complejos, Univ
 {: style="color:gray; font-size: 150%;"}
 #### SESSION 2. Model of evolution of culture
 <br/>
-**11:50 - 12:30** Keynote speaker  **Sergi Valverde 
+**11:50 - 12:30** Keynote speaker  **Sergi Valverde** 
 
 Major Transitions in Information Technology
 
@@ -80,7 +80,7 @@ Tom Froese (IIMAS-UNAM)
 #### SESSION 3. Archaeological evidence of Cultural Complexity  
 <br/>
 
-**14:55 - 15:35** Keynote speaker  **Alex Bentley
+**14:55 - 15:35** Keynote speaker  **Alex Bentley**
 
 The acceleration of cultural change - from ancestors to algorithms
 
