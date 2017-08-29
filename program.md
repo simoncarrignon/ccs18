@@ -16,7 +16,9 @@ feature_text: |
 {: style="color:gray; font-size: 150%;"}
 #### SESSION 1. Social Construction of Cultural Complexity
 <br/>
-**9:20 - 10:00** Keynote speaker Tom Froese
+**9:20 - 10:00** Keynote speaker **Tom Froese
+
+Can cultural complexity emerge via collective ritual? The case of ancient Teotihuacan
 
 **10:00 - 10:25**
 
@@ -52,27 +54,21 @@ Yamir Moreno (Instituto de Biocomputación y Física de Sistemas Complejos, Univ
 {: style="color:gray; font-size: 150%;"}
 #### SESSION 2. Model of evolution of culture
 <br/>
-**11:50 - 12:30** Keynote speaker  Sergi Valverde 
+**11:50 - 12:30** Keynote speaker  **Sergi Valverde 
 
+Major Transitions in Information Technology
 
 **12:30 - 12:55**
-
-Increasing complexity: steps in the (chrono)logic of cultural evolution
-
-{: style="font-size: 80%;"}
-Barend van Heusden (University of Groningen)
-
-{: style="color:#332255;"}
-**13:00 - 14:30 LUNCH TIME**
-
-**14:30 - 14:55**   
 
 Global knowledge dynamics in computationally assisted, complex cultural networks
 
 {: style="font-size: 80%;"}
 Thomas Petzold  (HMKW Berlin) 
 
-**14:55 - 15:20** 
+{: style="color:#332255;"}
+**13:00 - 14:30 LUNCH TIME**
+
+**14:30 - 14:55**   
 
 A Review and Critique of Gabora's Models of Cultural Evolution
 
@@ -83,19 +79,22 @@ Tom Froese (IIMAS-UNAM)
 {: style="color:gray; font-size: 150%;"}
 #### SESSION 3. Archaeological evidence of Cultural Complexity  
 <br/>
-**15:20- 16:00** Keynote speaker  Alex Bentley
 
-{: style="color:#332255;"}
-**16:00 - 16:30** **COFFEE BREAK**  
+**14:55 - 15:35** Keynote speaker  **Alex Bentley
 
-**16:30 - 16:55** 
+The acceleration of cultural change - from ancestors to algorithms
+
+**15:35- 16:00** 
 
 Digging for Patterns in Cave Art Marks through Symmetry Operations
 
 {: style="font-size: 80%;"}
 Emre Kaya (Bogazici University) 
 
-**16:55 - 17:20**  
+{: style="color:#332255;"}
+**16:00 - 16:30** **COFFEE BREAK**  
+
+**16:30 - 16:55** 
 
 The role of migration in the evolution of behavioural plasticity
 
@@ -103,22 +102,22 @@ The role of migration in the evolution of behavioural plasticity
 Iza Romanowska (Barcelona Supercomputing Center), 
 Seth Bullock (University of Bristol) 
 
-**17:20 - 17:45**  
+**16:55 - 17:20**  
 
 Complexity matters: Uncovering mechanisms of social complexity in the past
 
 {: style="font-size: 80%;"}
 Dries Daems (University of Leuven) 
 
-**17:45 - 18:10**  
+**17:20 - 17:45**  
 
 Long-term trends in the Roman imperial economic system: experiments on amphora recycling and product preference
 
 {: style="font-size: 80%;"}
-Tom Brughmans (University of Oxford) 
+Tom Brughmans (University of Oxford)
 
 {: style="color:#332255;"}
-**18:10 - 18:30 DISCUSSION** 
+**17:45 - 18:30 DISCUSSION**  
 
 {: style="color:#332255;"}
 **19:00 WELCOME COCKTAIL** 
