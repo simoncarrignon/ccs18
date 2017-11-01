@@ -6,6 +6,7 @@ feature_text: |
   Cancun, Mexico 
 
 ---
+### NEW! CALL FOR PAPER OPEN!
 
 ### Scientific Background
 
