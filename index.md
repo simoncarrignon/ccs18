@@ -6,7 +6,8 @@ feature_text: |
   Cancun, Mexico 
 
 ---
-### NEW! CALL FOR PAPER OPEN!
+### Call for Paper is now open
+please see [this page](proceedings)
 
 ### Scientific Background
 

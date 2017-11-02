@@ -91,11 +91,12 @@ avatarurl: "" # Uses avatars for favicons to get multple sites, eg Gravatar, Twi
 # 8. Site navigation
 navigation_header:
   Home: /
+  Proceedings - CfP: /proceedings/
   Program: /program/
   Speakers: /speakers/
   Committees: /committees/
   Sponsors: /sponsors/
-  Call for Abstract: /call/
+  #Call for Abstract: /call/
 
 navigation_footer:
     BSC : 
