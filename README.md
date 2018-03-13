@@ -5,3 +5,13 @@ this jekyll template is a fork of alembic, see her:
 
 ⚗ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.
 
+Reminder to compile and watch the changes:
+
+```bash
+bundle exec jekyll build --watch --source . --destination /var/www/html/ 
+```
+
+and simple bash loop to check if the github repo has changed:
+```bash
+while true ; do git pull darnes master ; sleep 5 ; done 
+```
