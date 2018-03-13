@@ -9,8 +9,9 @@ feature_text: |
 
 
 ### **CALL FOR PAPERS – Adaptive Behavior**
-
 ## **Special issue: “Evolution of Cultural Complexity”**
+
+Download the pdf of the CfP [here](/assets/ECC17-CallForPaper.pdf)
 
 From a global perspective the sociocultural evolution of humans has been
 a strong driving force throughout our shared history. From the invention
@@ -34,11 +35,11 @@ demographic factor, cognitive component to historical contingency, but
 we are far from reaching a consensus.
 
 This special issue follows on from the session **“Evolution of Cultural
-Complexity” **held at the Conference on Complex System 2017, where those
+Complexity”** held at the _Conference on Complex System 2017_, where those
 questions were discussed. However we also welcome submissions from
 authors who did not present. The submission can be of any of the types:
 original research article, review of the literature on the topic of the
-session, short communication and opinion (*cf.* the submission guideline
+session, short communication and opinion (_cf._ the submission guideline
 of Adaptive Behavior for more information on these formats:
 [*https://us.sagepub.com/en-us/nam/journal/adaptive-behavior\#submission-guidelines*](https://us.sagepub.com/en-us/nam/journal/adaptive-behavior#submission-guidelines)).
 We invite studies related to the evolution of cultural complexity,
@@ -103,7 +104,7 @@ Iza Romanowska (Barcelona Supercomputing Center)
 
 Xavier Rubio-Campillo (University of Edinburgh)
 
-**Contact: **[*ccs17@bsc.es*](mailto:ccs17@bsc.es)** **
+**Contact: **[*ccs17  at bsc dot es*](mailto:ccs17@bsc.es)** **
 
 **Website:** [*ccs17.bsc.es*](http://ccs17.bsc.es)
 

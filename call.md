@@ -29,4 +29,4 @@ All the speakers and participants of this satellite will have to register for CC
 
 ### Contact
 
-If you have any enquiries or questions about the submission process or the session in general, please write us at [ccs17@bsc.es](mailto:ccs17@bsc.es).
+If you have any enquiries or questions about the submission process or the session in general, please write us at [ccs17 at bsc dot es](mailto:ccs17@bsc.es).
