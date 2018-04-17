@@ -2,14 +2,14 @@
 title: Sponsors
 feature_text: |
   ## Evolution of Cultural Complexity
-  September 21, 2017 (8:30-17:00)
-  Cancun, Mexico 
+  Day TBA
+  Thessaloniki, Greece 
 
 ---
 
 
  
-{% include figure.html image="http://ccs17.unam.mx/images/logo.png" style="width:300px" %} [Conference on Complex Systems 2017](http://ccs17.unam.mx/)
+{% include figure.html image="/logo.png" style="width:300px" %} [Conference on Complex Systems 2018](http://ccs2018.web.auth.gr/)
 
 ------
 
@@ -33,10 +33,4 @@ feature_text: |
  
 {% include figure.html image="/assets/logo/epnet.png" style="width:200px" %} [Economic & Political Network project](http://www.roman-ep.net/)
  
-
-
-
-
- 
-
 

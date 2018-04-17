@@ -2,8 +2,8 @@
 title: Proceedings - CfP 
 feature_text: |
   ## Evolution of Cultural Complexity
-  September 21, 2017 (8:30-17:00)
-  Cancun, Mexico 
+  Day TBA
+  Thessaloniki, Greece 
 
 ---
 
@@ -35,7 +35,7 @@ demographic factor, cognitive component to historical contingency, but
 we are far from reaching a consensus.
 
 This special issue follows on from the session **“Evolution of Cultural
-Complexity”** held at the _Conference on Complex System 2017_, where those
+Complexity”** held at the _Conference on Complex System 2018_, where those
 questions were discussed. However we also welcome submissions from
 authors who did not present. The submission can be of any of the types:
 original research article, review of the literature on the topic of the
@@ -104,7 +104,7 @@ Iza Romanowska (Barcelona Supercomputing Center)
 
 Xavier Rubio-Campillo (University of Edinburgh)
 
-**Contact: **[*ccs17  at bsc dot es*](mailto:ccs17@bsc.es)** **
+**Contact: **[*ccs18  at bsc dot es*](mailto:ccs18@bsc.es)** **
 
-**Website:** [*ccs17.bsc.es*](http://ccs17.bsc.es)
+**Website:** [*ccs18.bsc.es*](http://ccs18.bsc.es)
 
