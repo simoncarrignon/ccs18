@@ -79,10 +79,10 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Satellite Session @ CCS 2017 Cancun" # Site name or title, also used in jekyll-seo-tag
+title: "Satellite Session @ CCS 2018 Thessaloniki" # Site name or title, also used in jekyll-seo-tag
 logo: "/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Sattellite Session at the Conference on Complex System: Evolution of Cultural Complexity" # Site description and default description, also used in jekyll-seo-tag
-url: "http://ccs17.unam.mx/" # Site url, also used in jekyll-seo-tag
+url: "http://ccs2018.web.auth.gr/" # Site url, also used in jekyll-seo-tag
 repo: ""
 email: "simon.carrignon@bsc.es"
 disqus: "alembic-1"
@@ -91,12 +91,11 @@ avatarurl: "" # Uses avatars for favicons to get multple sites, eg Gravatar, Twi
 # 8. Site navigation
 navigation_header:
   Home: /
-  Proceedings - CfP: /proceedings/
   Program: /program/
   Speakers: /speakers/
   Committees: /committees/
   Sponsors: /sponsors/
-  #Call for Abstract: /call/
+  Call for Abstract: /call/
 
 navigation_footer:
     BSC : 
