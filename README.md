@@ -8,7 +8,7 @@ this jekyll template is a fork of alembic, see her:
 Reminder to compile and watch the changes:
 
 ```bash
-bundle exec jekyll build --watch --source . --destination /var/www/html/ 
+bundle exec jekyll build --watch --source . --destination /var/www/ccs17/
 ```
 
 and simple bash loop to check if the github repo has changed:

@@ -6,7 +6,13 @@ feature_text: |
   Cancun, Mexico 
 
 ---
-### Call for Paper is now open
+
+{: style="color:red;"}
+#### Warnings!
+This page is the page associated to the satellite of the CCS 2017 in Cancun and the related proceedings.
+If you are interested to submitt an abstract to sattellite in CCS 2018 (Thessaloniki) please go to [this page](https://ccs18.bsc.es).
+
+### Proceedings | Call for Paper is now open
 please see [this page](proceedings)
 
 ### Scientific Background
