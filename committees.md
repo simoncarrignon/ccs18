@@ -2,8 +2,8 @@
 title: Committees
 feature_text: |
   ## Evolution of Cultural Complexity
-  September 21, 2017 (8:30-17:00)
-  Cancun, Mexico 
+  Day TBA
+  Thessaloniki, Greece 
 
 ---
 
@@ -11,15 +11,15 @@ feature_text: |
 ### Organizing Committee
 
 -   [Sergi Valverde](mailto:sergi.valverde@upf.edu) (Universitat Pompeu Fabra)
--   [Iza Romanowska](mailto:iza.romanowska@bsc.es) (Barcelona Supercomputing Center (BSC))
 -   [Simon Carrignon](mailto:simon.carrignon@bsc.es) (Barcelona Supercomputing Center (BSC) & Universitat Pompeu Fabra)
--   [María Coto-Sarmiento](mailto:maria.coto@bsc.es) (Barcelona Supercomputing Center (BSC) & Universitat de Barcelona)
--   [Xavier Rubio-Campillo](mailto:xavier.rubio@ed.ac.uk) (University of Edinburgh)
 
 
 ### Scientific Committee
 
 
+TBA 
+
+<!---
 -   Alberto Acerbi (Eindhoven University of Technology)
 -   Daniel Garcia Rivero (Universidad de Sevilla)
 -   Stephen Shennan (University College London)
@@ -29,7 +29,6 @@ feature_text: |
 -   Laura Fortunato (University of Oxford - Santa Fe Institute)
 -   Charlotte Brand (University of Exeter) 
 
-<!---
 
 
 -   Ruth Mace (University College London)
