@@ -7,8 +7,6 @@ feature_text: |
 
 ---
 
-{: style="color:red;"}
-
 ### Scientific Background
 
 Human sociocultural evolution has been documented throughout the history
