@@ -1,7 +1,7 @@
 ---
 title: Committees
 feature_text: |
-  ## Evolution of Cultural Complexity
+  ## Evolution of Cultural Complexity III
   Day TBA
   Thessaloniki, Greece 
 
@@ -10,7 +10,7 @@ feature_text: |
 
 ### Organizing Committee
 
--   [Sergi Valverde](mailto:sergi.valverde@upf.edu) (Universitat Pompeu Fabra)
+-   [Sergi Valverde](mailto:sergi.valverde@upf.edu) (Institut de Biologia Evolutiva (CSIC-UPF))
 -   [Simon Carrignon](mailto:simon.carrignon@bsc.es) (Barcelona Supercomputing Center (BSC) & Universitat Pompeu Fabra)
 
 

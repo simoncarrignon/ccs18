@@ -1,7 +1,7 @@
 ---
 title: Proceedings - CfP 
 feature_text: |
-  ## Evolution of Cultural Complexity
+  ## Evolution of Cultural Complexity III
   Day TBA
   Thessaloniki, Greece 
 
@@ -9,7 +9,7 @@ feature_text: |
 
 
 ### **CALL FOR PAPERS – Adaptive Behavior**
-## **Special issue: “Evolution of Cultural Complexity”**
+## **Special issue: “Evolution of Cultural Complexity III”**
 
 Download the pdf of the CfP [here](/assets/ECC17-CallForPaper.pdf)
 

@@ -81,7 +81,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 title: "Satellite Session @ CCS 2018 Thessaloniki" # Site name or title, also used in jekyll-seo-tag
 logo: "/logo.png" # Site logo, also used in jekyll-seo-tag
-description: "Sattellite Session at the Conference on Complex System: Evolution of Cultural Complexity" # Site description and default description, also used in jekyll-seo-tag
+description: "Sattellite Session at the Conference on Complex System: Evolution of Cultural Complexity III" # Site description and default description, also used in jekyll-seo-tag
 url: "http://ccs2018.web.auth.gr/" # Site url, also used in jekyll-seo-tag
 repo: ""
 email: "simon.carrignon@bsc.es"

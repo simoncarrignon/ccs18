@@ -1,7 +1,7 @@
 ---
 title: Call for Abstract
 feature_text: |
-  ## Evolution of Cultural Complexity
+  ## Evolution of Cultural Complexity III
   Day TBA
   Thessaloniki, Greece 
 
@@ -23,4 +23,5 @@ All the speakers and participants of this satellite will have to register at CCS
 
 ### Contact
 
-If you have any enquiries or questions about the submission process or the session in general, please write us ( _simon dot carrignon at bsc dot es_ or _sergi dot valverde at upf dot edu_)
+If you have any enquiries or questions about the submission process or the session in general, please don't hesitate to write write us: [Sergi Valverde](mailto:sergi.valverde@upf.edu) or [Simon Carrignon](mailto:simon.carrignon@bsc.es) 
+{:style=" font-size: 90%;line-height:1.2"}
