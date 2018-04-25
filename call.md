@@ -23,4 +23,4 @@ All the speakers and participants of this satellite will have to register at CCS
 
 ### Contact
 
-If you have any enquiries or questions about the submission process or the session in general, please write us at [simon dot carrignon at bsc dot es](mailto:simon.carrignon@bsc.es).
+If you have any enquiries or questions about the submission process or the session in general, please write us ( _simon dot carrignon at bsc dot es_ or _sergi dot valverde at upf dot edu_)
