@@ -19,9 +19,7 @@ The contributions to this satellite will be evaluated by the scientific committe
 
 ### Registration
 
-All the speakers and participants of this satellite will have to register for CCS18  [here](http://ccs18.unam.mx/registration/new).
-
-<---- **Registration are now open!!!** All information is available [here](http://ccs18.unam.mx/registration/new).---->
+All the speakers and participants of this satellite will have to register at CCS18. Please check [here](http://ccs2018.web.auth.gr).
 
 ### Contact
 
