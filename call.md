@@ -12,7 +12,10 @@ feature_text: |
 
 ### Submissions
 
-Submissions will be made by sending a **250 words** abstract  via Easychair [here](https://easychair.org/conferences/?conf=ecc18). The deadline for abstract submission is ~~the 1st of June 2018~~ EXTENDED: **the 15th of June 2018**.
+{: style="color:red;"}
+**Submissions are now closed.**
+
+~~Submissions will be made by sending a **250 words** abstract  via Easychair [here](https://easychair.org/conferences/?conf=ecc18). The deadline for abstract submission is the 1st of June 2018 EXTENDED: **the 15th of June 2018**.~~
 
 The contributions to this satellite will be evaluated by the scientific committee through a peer review process that will evaluate the scientific quality and the relevance to the goal of this session. Notification of accepted abstracts will be communicated by mid-June.
 
