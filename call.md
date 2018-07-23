@@ -2,7 +2,7 @@
 title: Call for Abstract
 feature_text: |
   ## Evolution of Cultural Complexity III
-  Day TBA
+  27 of Setpember 2018
   Thessaloniki, Greece 
 
 ---
