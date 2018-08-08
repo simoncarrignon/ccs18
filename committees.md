@@ -14,12 +14,12 @@ feature_text: |
 -   [Simon Carrignon](mailto:simon.carrignon@bsc.es) (Barcelona Supercomputing Center (BSC) & Universitat Pompeu Fabra)
 
 
+<!---
 ### Scientific Committee
 
 
 TBA 
 
-<!---
 -   Alberto Acerbi (Eindhoven University of Technology)
 -   Daniel Garcia Rivero (Universidad de Sevilla)
 -   Stephen Shennan (University College London)
