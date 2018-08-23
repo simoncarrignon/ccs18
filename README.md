@@ -23,4 +23,18 @@ sed -i "s/ccs18/ccs18/g" *.md
 sed -i "s/Cancun/Thessaloniki/g" *.md 
 ```
 
+From easychair abstract to web:
+With a bunch of vim subistitue commande it' s easy to modify the output given by easy chair export into a better one:  
+then add the :s
+```vim
+%s#span class="title">#div class="title"></br><b>Title: </b>#g
+```
+Then one can the convert it with pandoc:
+pandoc -s asbtract.html -o abstract.tex
 
+And we some adjustment get a good latex output:
+
+```vim
+%s/^{/{\\textbf/g ''put the name of authors in bold
+%s/^{\\bf/\\rule{4cm}{.4pt}\r\r{\\bf/g ''add a line betwee all abstrac
+```
