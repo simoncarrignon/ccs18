@@ -4,7 +4,7 @@ title: Speakers
 ---
 
 ### Peter Turchin *(University of Connecticut)*
-{: #peter }
+{: #pt }
 
 
 {% include figure.html  image="/assets/turchin.jpg" alt="Peter Turchin, UCONN" %}
@@ -17,7 +17,7 @@ webpage: [peterturchin.com](https://peterturchin.com)
 
 
 ### Anne Kandler *(Max Planck Institute for Evolutionary Anthropology)*
-{: #anne }
+{: #ak }
 
 
 {% include figure.html  image="https://www.eva.mpg.de/fileadmin/content_files/staff/anne_kandler/images/anne_kandler.jpg" alt="Peter Turchin, UCONN" %}
