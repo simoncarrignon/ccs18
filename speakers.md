@@ -3,7 +3,7 @@ title: Speakers
 
 ---
 
-### Peter Turchin *(University of Connecticut)*
+### Peter Turchin *(Complexity Science Hub–Vienna and University of Connecticut)*
 {: #pt }
 
 
