@@ -7,7 +7,7 @@ title: Speakers
 {: #pt }
 
 
-{% include figure.html  image="/assets/turchin.jpg" alt="Peter Turchin, UCONN" %}
+{% include figure.html  image="/ccs18/assets/turchin.jpg" alt="Peter Turchin, UCONN" %}
 
 Peter Turchin is a scientist and an author who wants to understand how human societies evolve, and why we see such a staggering degree of inequality in economic performance and effectiveness of governance among nations (see Research Interests). Peter’s approach to answering these questions blends theory building with the analysis of data. He is the founder of a new transdisciplinary field of Cliodynamics, which uses the tools of complexity science and cultural evolution to study the dynamics of historical empires and modern nation-states.
 
