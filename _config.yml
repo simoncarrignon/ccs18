@@ -90,32 +90,32 @@ avatarurl: "" # Uses avatars for favicons to get multple sites, eg Gravatar, Twi
 
 # 8. Site navigation
 navigation_header:
-  Home: /
-  Program: /program/
-  Speakers: /speakers/
-  Committees: /committees/
-  Sponsors: /sponsors/
-  Call for Abstract: /call/
+  Home: /ccs17/
+  Program: /ccs17/program/
+  Speakers: /ccs17/speakers/
+  Committees: /ccs17/committees/
+  Sponsors: /ccs17/sponsors/
+  Call for Abstract: /ccs17/call/
 
 navigation_footer:
     BSC : 
         url: http://bsc.es
-        logo: /assets/logo/bsc.png
+        logo: /ccs17/assets/logo/bsc.png
     IBE : 
         url: https://www.ibe.upf-csic.es/ 
-        logo: /assets/logo/ibe_logo.png
+        logo: /ccs17/assets/logo/ibe_logo.png
     AEI : 
-        logo: /assets/logo/aei_logo.png
+        logo: /ccs17/assets/logo/aei_logo.png
     EPNet : 
         url: http://www.roman-ep.net
-        logo: /assets/logo/epnet.png
+        logo: /ccs17/assets/logo/epnet.png
     ERC : 
         url: https://erc.europa.eu/
-        logo: /assets/logo/erc-white.svg
+        logo: /ccs17/assets/logo/erc-white.svg
 
     EU : 
         url: https://europa.eu/
-        logo: /assets/logo/europe.jpg
+        logo: /ccs17/assets/logo/europe.jpg
 
 
 social_links:
