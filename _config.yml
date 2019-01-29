@@ -47,6 +47,7 @@ sass:
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/Barcelona # Timezone for blog posts and alike
+base_path: /ccs18
 
 # 5. Collections
 collections:
